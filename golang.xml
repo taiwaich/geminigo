@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+  <background>yellow</background>
+  <button>pink</button>
+  <courses>
+    <key>Academy Home</key>
+    <value />
+  </courses>
+  <courses>
+    <key>SQL</key>
+    <value>sql/</value>
+  </courses>
+  <courses>
+    <key>Web Apps</key>
+    <value>AppDes/</value>
+  </courses>
+  <courses>
+    <key>.Net</key>
+    <value>dotnet/</value>
+  </courses>
+  <apps name="go sandbox">
+    <type>web</type>
+    <path>https://go.dev/play/</path>
+  </apps>
+  <apps name="Go">
+    <type>dir</type>
+    <path>C:\Go</path>
+  </apps>
+  <apps name="github com LinkedInLearning learning-go-4225046">
+    <type>web</type>
+    <path>https://github.com/LinkedInLearning/learning-go-4225046/blob/main/Ch02/02_05e/main.go</path>
+  </apps>
+  <apps name="linkedin learning learning-go">
+    <type>web</type>
+    <path>https://www.linkedin.com/learning/learning-go-24516285/parse-json-formatted-text?u=78163626</path>
+  </apps>
+  <apps name="go genai">
+    <type>web</type>
+    <path>https://pkg.go.dev/github.com/google/generative-ai-go/genai#pkg-examples</path>
+  </apps>
+  <apps name="GenAI Essentials – Full Course for Beginners">
+    <type>web</type>
+    <path>https://www.youtube.com/watch?v=nJ25yl34Uqw</path>
+  </apps>
+  <apps name="Gemini AI API with Go Golang Tutorial">
+    <type>web</type>
+    <path>https://www.youtube.com/watch?v=QZTdv3yMzd8</path>
+  </apps>
+</items>
